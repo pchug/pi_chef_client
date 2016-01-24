@@ -11,7 +11,7 @@ GRAPH
   chef_handler (1.2.0)
   cron (1.7.3)
   logrotate (1.9.2)
-  pi_chef_client (0.1.0)
+  pi_chef_client (0.1.1)
     chef-client (>= 0.0.0)
   windows (1.39.1)
     chef_handler (>= 0.0.0)
