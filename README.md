@@ -1,4 +1,4 @@
 # pi_chef_client
 
-TODO: Enter the cookbook description here.
+Personal chef-client wrapper for supermarket hosted chef-client cookbook.
 
