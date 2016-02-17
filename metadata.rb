@@ -4,6 +4,6 @@ maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures pi_chef_client'
 long_description 'Installs/Configures pi_chef_client'
-version '0.1.1'
+version '0.1.2'
 
 depends 'chef-client'
